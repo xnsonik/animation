@@ -1,0 +1,15 @@
+/* animation-name (имя ключевых кадров) 
+
+animation-duraction (время анимации (в секундах / милисекундах))
+
+animation-timing-function (сценарий)
+
+animation-iteraction-count (значение кол-во повторов ключевых кадров)
+
+animation-direction (тип и направление ключевых кадров
+
+animation-place-state (приостанавливает анимацию по определенному событию)
+
+animation-delay (задержка вначале анимации)
+
+animation-fill-mode (определяет какие значения применять после завершения анимации*/
